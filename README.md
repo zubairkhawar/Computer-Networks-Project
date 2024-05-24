@@ -56,3 +56,5 @@ Analytical data on network performance provides insights into the efficiency and
 # Conclusion
 This project provides a comprehensive understanding of integrating multiple routing protocols and LANs in a cohesive network architecture. By leveraging the strengths of EIGRP, RIP, and OSPF, the network achieves optimal performance, scalability, and resilience. This hands-on experience reinforces the theoretical knowledge of networking principles and prepares for more advanced network design and management challenges.
 
+<img width="1156" alt="Screenshot 2024-05-25 at 1 24 59 AM" src="https://github.com/zubairkhawar/Computer-Networks-Project/assets/115324847/eecf605a-0fda-46d2-ab12-40609bf34de5">
+
